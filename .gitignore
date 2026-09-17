@@ -1,0 +1,11 @@
+.DS_Store
+*.pyc
+__pycache__/
+.venv/
+venv/
+.env
+*.log
+artifacts/.tmp/
+katalog_fotos/*.jpg
+!katalog_fotos/.gitkeep
+output/*.pdf
